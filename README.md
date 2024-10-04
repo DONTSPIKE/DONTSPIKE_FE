@@ -40,6 +40,8 @@
 |Formatting|<img src="https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=Spring&logoColor=white"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">|
 |Package Manager|<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=white">|
 |Deployment|<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Spring&logoColor=white">|
+|State Management|<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Spring&logoColor=white">|
+
 
 ## commit message
 - feat : 새로운 기능 추가
